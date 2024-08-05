@@ -1,4 +1,4 @@
 
-	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ŸÂÓ‚’2J$c384fced-ce7d-4f4b-9743-b20c67da3f32
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Â®¶‹’2J$d5dd1a49-cdda-4e97-bbd4-19f3cf646f94
 ‰
-java:S1989%"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8«ÂÓ‚’2J$0885d8f2-a19b-4906-a7d9-7161ce748f14
+java:S1989&"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8Ê®¶‹’2J$97261a55-8f9a-4d24-8b08-951ea35ae4b6

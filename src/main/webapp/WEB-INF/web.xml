@@ -7,4 +7,12 @@
         <param-name>url</param-name>
         <param-value>https://nhnacademy.com/</param-value>
     </context-param>
+    <servlet>
+        <servlet-name>nowServlet</servlet-name>
+        <servlet-class>com.nhnacademy.practice.NowServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>nowServlet</servlet-name>
+        <url-pattern>/now</url-pattern>
+    </servlet-mapping>
 </web-app>
