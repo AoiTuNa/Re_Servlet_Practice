@@ -124,3 +124,15 @@ l
 <src/main/java/com/nhnacademy/practice/util/CounterUtils.java,e\1\e10d14ec6623cb7c775c8f7a2b6aa6537f21e6da
 e
 5src/main/java/com/nhnacademy/practice/NowServlet.java,f\a\faf36cb1cbf43cd8d5c7eabb6caeb2617178f014
+H
+src/main/webapp/req.html,3\9\39721894c7b9a9095fc99457081fa7c3570df603
+l
+<src/main/java/com/nhnacademy/practice/RequestApiServlet.java,c\1\c19e68e7aeb05cd7a85bf727735e2f39735f6436
+k
+;src/main/java/com/nhnacademy/practice/util/CookieUtils.java,d\e\de53a89fa58c05c8fa7e64a8ee047a7b2421404a
+r
+Bsrc/main/java/com/nhnacademy/practice/cookie/SetCookieServlet.java,d\0\d00e3c2452b8463f5045accffa005039adefcfea
+s
+Csrc/main/java/com/nhnacademy/practice/cookie/ReadCookieServlet.java,5\4\5464758d70d28862125228d6680b41580c7e7c35
+K
+src/main/webapp/locale.html,6\a\6acd1de11c534de35e8a6f1e077a6afd6288a350

@@ -15,4 +15,20 @@
         <servlet-name>nowServlet</servlet-name>
         <url-pattern>/now</url-pattern>
     </servlet-mapping>
+    <servlet>
+        <servlet-name>setCookieServler</servlet-name>
+        <servlet-class>com.nhnacademy.practice.cookie.SetCookieServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>setCookieServler</servlet-name>
+        <url-pattern>/set-cookie</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>readCookieServlet</servlet-name>
+        <servlet-class>com.nhnacademy.practice.cookie.ReadCookieServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>readCookieServlet</servlet-name>
+        <url-pattern>/read-cookie</url-pattern>
+    </servlet-mapping>
 </web-app>
