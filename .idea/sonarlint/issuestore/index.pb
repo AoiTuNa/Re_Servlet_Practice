@@ -136,3 +136,9 @@ s
 Csrc/main/java/com/nhnacademy/practice/cookie/ReadCookieServlet.java,5\4\5464758d70d28862125228d6680b41580c7e7c35
 K
 src/main/webapp/locale.html,6\a\6acd1de11c534de35e8a6f1e077a6afd6288a350
+m
+=src/main/java/com/nhnacademy/practice/login/LoginServlet.java,3\f\3f268c02bdc00572253100701cdf2969d112c147
+J
+src/main/webapp/login.html,0\b\0b2312482180eaf8cdf639b64798129ced9aa403
+n
+>src/main/java/com/nhnacademy/practice/login/LogoutServlet.java,3\9\39e36cead3ba7587c02971c4c06edded60c4f892
